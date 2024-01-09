@@ -3,17 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Paincker
+# title: Paincker
+title: plwater
 subtitle: ''
 description: '江子健的个人博客，90后理工男、微软程序员、互联网从业者，分享软件编程、开发技术、学习与思考'
 keywords: ['计算机','开发','编程','网站','博客','技术','学习']
-author: jzj1993
+author: plwater
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://www.paincker.com
+# url: https://www.paincker.com
+url: https://plwater.github.io/
 permalink: :url/
 permalink_defaults:
 pretty_urls:
