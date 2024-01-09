@@ -70,9 +70,9 @@ default_category: 开发技术
 category_map:
   开发技术: develop
   学习思考: study
-  Android测试初探: android-test
-  单片机小白学步: mcu-primer
-  装系统不求人: sysinst
+  后端技术: backend
+  前端技术: frontend
+  兴趣: interest
   网站搭建从零开始: website-primer
 tag_map:
 
