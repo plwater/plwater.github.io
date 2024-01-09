@@ -109,7 +109,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:jzj1993/jzj1993.github.io.git
+  repo: git@github.com:plwater/plwater.github.io.git
   branch: gh-pages
 
 plugins:
