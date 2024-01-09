@@ -3,7 +3,6 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-# title: Paincker
 title: plwater
 subtitle: ''
 description: 'plwater 的个人博客，90后理工男、程序员、互联网从业者，分享软件编程、开发技术、学习与思考'
@@ -14,7 +13,6 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-# url: https://www.paincker.com
 url: https://plwater.github.io
 permalink: :url/
 permalink_defaults:
@@ -111,7 +109,8 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:plwater/plwater.github.io.git
+#  repo: git@github.com:plwater/plwater.github.io.git
+  repo: https://github.com/plwater/plwater.github.io.git
   branch: gh-pages
 
 plugins:
