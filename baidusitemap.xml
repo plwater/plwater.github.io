@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://plwater.github.io/plwater-blog-published/</loc>
+    <lastmod>2024-01-10</lastmod>
+  </url>
+  <url>
     <loc>https://plwater.github.io/about/index.html</loc>
     <lastmod>2024-01-10</lastmod>
   </url>
   <url>
-    <loc>https://plwater.github.io/hello-hexo/</loc>
-    <lastmod>2024-01-09</lastmod>
-  </url>
-  <url>
-    <loc>https://plwater.github.io/test-post/</loc>
-    <lastmod>2024-01-09</lastmod>
-  </url>
-  <url>
-    <loc>https://plwater.github.io/hello-hexo-plus-github/</loc>
-    <lastmod>2024-01-09</lastmod>
-  </url>
-  <url>
-    <loc>https://plwater.github.io/one-of-my-day/</loc>
+    <loc>https://plwater.github.io/backup/hello-hexo.html</loc>
     <lastmod>2024-01-09</lastmod>
   </url>
 </urlset> 

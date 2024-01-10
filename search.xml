@@ -1,40 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hello Hexo</title>
-    <url>/hello-hexo/</url>
-    <content><![CDATA[<p>2024年01月09日</p>
-<p>这是一篇测试文章，主要测试  <code>标签</code> 、 <code>分类</code> 、 <code>评论</code> 等功能。</p>
-<p>Hexo 还真不错。</p>
-]]></content>
-      <categories>
-        <category>博客搭建</category>
-      </categories>
-      <tags>
-        <tag>建站</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>你好 Hexo+Github</title>
-    <url>/hello-hexo-plus-github/</url>
-    <content><![CDATA[<p>你好，Hexo+GitHub。</p>
-<p>这次终于好了吧？</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>one_of_my_day</title>
-    <url>/one-of-my-day/</url>
-    <content><![CDATA[<p>2024年01月09日，学会了用 Hexo+GitHub搭建博客，以后应该会买一个域名，当做一个记录成长的平台。</p>
-<p>希望能够坚持记录。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>测试文章</title>
-    <url>/test-post/</url>
-    <content><![CDATA[<p>这是一篇测试文章</p>
-<img data-src="/test-post/smileyface-transparent-1080x1080.png" class="" title="图片引用方法一">
-<p><img data-src="smileyface-transparent-1080x1080.png" alt="图片引用方法二"></p>
-<p><img data-src="/images/smileyface-transparent-1080x1080.png" alt="图片引用方法三"></p>
+    <title>我的博客上线了</title>
+    <url>/plwater-blog-published/</url>
+    <content><![CDATA[<p>很久之前就想搞个博客，因为犯懒一直没有行动，搜了一下教程就搞好了，过程也不算多难，多尝试就行。使用的是 <code>Hexo+GitHub</code> 构建、部署、发布，参考了 <a href="https://www.paincker.com/">Paincker</a> 开源的<a href="https://github.com/jzj1993/jzj1993.github.io">博客仓库</a> ，感谢这位网友的贡献。后面会整理一下搭建过程，以及注意事项，搭建过程遇到的一些障碍值得记录一下。</p>
+<p>这里相当于一个公开的记录成长的平台，有些东西是值得分享和记录的。</p>
+<p>2024年01月10日上午。</p>
 ]]></content>
   </entry>
 </search>
