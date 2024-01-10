@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/hello_world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start">Quick Start</h2>
+<h3 id="Create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <tags>
+        <tag>demo</tag>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hello Hexo</title>
+    <url>/hello-hexo/</url>
+    <content><![CDATA[<p>2024年01月09日</p>
+<p>这是一篇测试文章，主要测试  <code>标签</code> 、 <code>分类</code> 、 <code>评论</code> 等功能。</p>
+<p>Hexo 还真不错。</p>
+]]></content>
+      <categories>
+        <category>博客搭建</category>
+      </categories>
+      <tags>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hi,Hexo+Github</title>
+    <url>/hi-hexo-github/</url>
+    <content><![CDATA[<p>Hi，Hexo+GitHub。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hexo+Github</title>
+    <url>/hello-hexo-github/</url>
+    <content><![CDATA[<p>你好，Hexo+GitHub。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>你好 Hexo+Github</title>
+    <url>/hello-hexo-plus-github-0/</url>
+    <content><![CDATA[<p>你好，Hexo+GitHub。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>你好 Hexo+Github</title>
+    <url>/hello-hexo-plus-github/</url>
+    <content><![CDATA[<p>你好，Hexo+GitHub。</p>
+<p>这次终于好了吧？</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>one_of_my_day</title>
+    <url>/one-of-my-day/</url>
+    <content><![CDATA[<p>2024年01月09日，学会了用 Hexo+GitHub搭建博客，以后应该会买一个域名，当做一个记录成长的平台。</p>
+<p>希望能够坚持记录。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>测试文章</title>
+    <url>/test-post/</url>
+    <content><![CDATA[<p>这是一篇测试文章</p>
+<img data-src="/test-post/smileyface-transparent-1080x1080.png" class="" title="图片引用方法一">
+<p><img data-src="smileyface-transparent-1080x1080.png" alt="图片引用方法二"></p>
+<p><img data-src="/images/smileyface-transparent-1080x1080.png" alt="图片引用方法三"></p>
+]]></content>
+  </entry>
+</search>
