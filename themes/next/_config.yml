@@ -203,11 +203,7 @@ links_settings:
   layout: block
 
 links:
-  DAppChaser: http://www.dappchaser.com
-  陈文管的博客: https://www.chenwenguan.com/
-  程序亦非猿: http://yifeiyuan.me/
-  Trinea: https://www.trinea.cn/
-  Shinya: https://blog.weshinekx.cn/
+  paincker: https://www.paincker.com/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
