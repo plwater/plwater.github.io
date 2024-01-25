@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>使用 Hexo+GitHub 搭建博客</title>
-    <url>/use-hexo-and-github-found-blog/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>我的博客上线了</title>
     <url>/plwater-blog-published/</url>
     <content><![CDATA[<p>很久之前就想搞个博客，因为犯懒一直没有行动，搜了一下教程就搞好了，过程也不算多难，多尝试就行。使用的是 <code>Hexo+GitHub</code> 构建、部署、发布，参考了 <a href="https://www.paincker.com/">Paincker</a> 开源的<a href="https://github.com/jzj1993/jzj1993.github.io">博客仓库</a> ，感谢这位网友的贡献。后面会整理一下搭建过程，以及注意事项，搭建过程遇到的一些障碍值得记录一下。</p>

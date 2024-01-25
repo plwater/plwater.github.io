@@ -4,16 +4,7 @@
   <url>
     <loc>https://plwater.github.io/plwater-blog-published/</loc>
     
-    <lastmod>2024-01-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://plwater.github.io/use-hexo-and-github-found-blog/</loc>
-    
-    <lastmod>2024-01-11</lastmod>
+    <lastmod>2024-01-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +85,7 @@
 
   <url>
     <loc>https://plwater.github.io/</loc>
-    <lastmod>2024-01-18</lastmod>
+    <lastmod>2024-01-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,7 +93,7 @@
   
   <url>
     <loc>https://plwater.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2024-01-18</lastmod>
+    <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -111,7 +102,7 @@
   
   <url>
     <loc>https://plwater.github.io/categories/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2024-01-18</lastmod>
+    <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
